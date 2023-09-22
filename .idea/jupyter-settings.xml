@@ -11,6 +11,14 @@
             </JupyterConnectionParameters>
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/.idea/programming-language-dictionary.iml">
+          <value>
+            <JupyterConnectionParameters>
+              <option name="managed" value="true" />
+              <option name="sdkName" value="local-airflow-2.6.2" />
+            </JupyterConnectionParameters>
+          </value>
+        </entry>
         <entry key="$USER_HOME$/Workspace/ad-ml-emr-notebook/.idea/ad-ml-emr-notebook.iml">
           <value>
             <JupyterConnectionParameters>
